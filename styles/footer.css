@@ -1,0 +1,12 @@
+#footer{
+    position: absolute;
+    width: 1086px;
+    height: 181px;
+    left: 1.22%;
+    right: 4.01%;
+    top: 1500px;
+    bottom: 0%;
+
+    background: url(footer.png);
+
+}

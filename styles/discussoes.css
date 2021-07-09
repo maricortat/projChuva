@@ -1,0 +1,216 @@
+#discussoes{
+    position: absolute;
+    width: 1058px;
+    height: 721px;
+    left: 0px;
+    top: 761px;
+
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;
+
+}
+.tituloboxdiscussoes{
+
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    left: 0px;
+
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px 3px 0px 0px;
+
+}
+.titulodiscussoes{
+    
+    left: 16px;
+    top: 771px;
+    bottom: 643px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+
+    display: flex;
+    align-items: center;
+
+    color: #4E4E4E;
+
+
+}
+.textassunto{
+    position: absolute;
+    left: 2.81%;
+    right: 3%;
+    top: 100px;
+    bottom: 92.65%;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    text-align: center;
+
+    color: #5C5C5C;
+
+}
+.assuntotext{
+   
+    position: absolute;
+    width: 1020.52px;
+    margin-left: 20px;
+    top: 150px;
+    bottom: 75.92%;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #ED7839;
+     
+}
+#assunto{
+    position: absolute;
+    width:1025px;
+    height:39px;
+    left: 20px;
+    right: -0.05px;
+    top: 170px;
+    bottom: 146px;
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4D4D4D;
+
+}
+.conteudotextarea{
+    position: absolute;
+    width: 1020.52px;
+    left: 20px;
+    top: 210px;
+    bottom: 47.76%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+
+    color: #ED7839;
+
+}
+#conteudobox{
+
+    width:1025px;
+    height: 113px;
+    position: absolute;
+    left: 20px;
+    right: 0%;
+    top: 230px;
+    bottom: 0%;
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+
+}
+.lineseparetor{
+    position: absolute;
+    width: 1027px;
+    height: 0px;
+    left: 16px;
+    top: 365px;
+
+    border: 1px solid #E7E7E7;
+}
+.tituloideias{
+
+    margin-top: 100px;
+    margin-left: 365.5px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #ED7839;
+
+}
+.icone1{
+    position: absolute;
+    width: 50.26px;
+    height: 48.94px;
+    left: 402.5px;
+}
+.icone2{
+    position: absolute;
+    width: 50.26px;
+    height: 48.94px;
+    left: 504.5px;
+}
+.icone3{
+    position: absolute;
+width: 50.26px;
+height: 48.94px;
+left: 608.5px; 
+}
+.textdiscussaoideias{
+    position: absolute;
+
+    top: 250px;
+    left: 200px;
+  
+font-family: Quicksand;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #595959;
+
+}
+.criartopicobutton{
+   position: absolute;
+   top: 300px;
+   left: 500px;
+   
+   background: linear-gradient(180deg, #FEB254 0%, #F0813D 100%);
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+    border-radius: 4px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 16px;
+    /* identical to box height, or 107% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}

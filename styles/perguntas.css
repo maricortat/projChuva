@@ -1,0 +1,130 @@
+#pergunta{
+    position: absolute;
+    height: 148px;
+    left: 1.42%;
+    right: 1.51%;
+    top: 400px;
+    bottom: 12.51%;
+
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+
+}
+.assuntopergunta{
+    position: absolute;
+    width:276px;
+    height:20px;
+    left: 3.7%;
+    right: 71.09%;
+    top: 17px;
+    bottom: 20.22%;
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #ED7839;
+}
+.autor{
+    position: absolute;
+    left: 3.7%;
+    right: 45.11%;
+    top: 29.99%;
+    bottom: 18.97%;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #5C5C5C;
+        
+}
+.pergunta{
+    position: absolute;
+    left: 3.7%;
+    right: 3.7%;
+    top: 36.72%;
+    bottom: 15.84%;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #4D4D4D;
+}
+#buttonlike{
+    position: absolute;
+    width:27px ;
+    height:19px;
+    left: 5.48%;
+    right: 91.97%;
+    top: 79.92%;
+    bottom: 13.76%;
+
+    background: #ED7839;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+    border-radius: 2px;
+
+}
+.nlike{
+    position: absolute;
+    width:29px;
+    height:19px;
+    left: 9.44%;
+    right: 87.82%;
+    top: 79.92%;
+    bottom: 13.76%;
+
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #757575;
+
+
+}
+.nresposta{
+    position: absolute;
+    width:60px;
+    height:19px;
+    left: 13.6%;
+    right: 87.82%;
+    top: 79.92%;
+    bottom: 13.76%;
+
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #757575;
+
+}
+#pergunta2{
+    position: absolute;
+    height: 148px;
+    left: 1.42%;
+    right: 1.51%;
+    top: 560px;
+    bottom: 12.51%;
+
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+
+    
+
+}

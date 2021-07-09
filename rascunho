@@ -1,0 +1,15 @@
+ <div id="header">
+                    <p class="paragraph-header" >Anais do Simpósio Latino Americano de Ciências de Alimentos </p>
+                    <h1 class="title-header">Anais do 13º Simpósio Latino Americano de Ciência de Alimentos </h1>
+                    <span class="span-header">ISSN: 1234-5678</span>
+                    <select name="language" id="language">
+                        <img src="./img/languageimage.png" alt="Mundo"/>
+                        <option value="pt-br" id="pt-br">  PT-BR</option>
+                    </select>
+                    <div id="login">
+                        <p class="welcome">Bem-Vindo!</p>
+                        <p class="notification badge">2</p>
+                        <img src="./img/image.png" alt="user" class="imgperson"/>
+                        <p class="email">alguem12@galoascience.com</p>
+
+                    </div>

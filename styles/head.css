@@ -1,0 +1,135 @@
+#header{
+    position: absolute;
+    width: 1146px;
+    height: 68px;
+    margin-left: 211px;
+    top: 0%;
+
+    background: #FDF1EB;
+}
+.paragraph-header{
+    position: absolute;
+    width: 391px;
+    height: 16px;
+    margin-left: 36px;
+    margin-top: 3px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #725C5C;
+
+}
+.title-header{
+    position: absolute;
+    width: 643px;
+    height: 26px;
+    margin-left: 36px;
+    margin-top: 23px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #725C5C;
+}
+.span-header{
+    position: absolute;
+    width: 105px;
+    height: 16px;
+    margin-left: 36px;
+    margin-top: 48px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #725C5C;
+
+}
+#language{
+
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    margin-left: 789px;
+    margin-top: 17px;
+
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background: transparent;
+}
+#pt-br{
+    position: absolute;
+    width: 42px;
+    height: 18px;
+    margin-left: 820px;
+    margin-top: 25px;
+
+    font-family:'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+
+}
+#login{
+    position: absolute;
+    width: 202px;
+    height: 34px;
+    left: 908px;
+    top: 17px;
+}
+.welcome{
+    position: absolute;
+    width: 72px;
+    height: 18px;
+    left: 85px;
+    top: 0px;
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+
+    color: #333333;
+}
+.imgperson{
+    position: absolute;
+    margin-left: 93.28%;
+    margin-right: 2.53%;
+    margin-top: 27.94%;
+    bottom: 27.94%;
+
+    border: 1px solid #F5F5F5 ;
+    box-sizing:border-box;
+    
+    /*ver como arredondar a imagem*/
+
+    background: url(pessoa-que-nao-existe.jpg);
+}
+.email{
+
+    width: 163px;
+    height: 15px;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: right;
+    color: #333333;
+    
+
+}
